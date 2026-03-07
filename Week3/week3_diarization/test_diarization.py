@@ -12,7 +12,7 @@ pipeline = Pipeline.from_pretrained(
 )
 
 print("Running diarization...")
-diarization = pipeline("short.wav")
+diarization = pipeline("Week3/week3_diarization/short.wav", num_speakers=2)
 
 print("Finished processing!")
 

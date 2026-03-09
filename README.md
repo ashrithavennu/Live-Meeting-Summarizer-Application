@@ -1,4 +1,5 @@
 # Live-Meeting-Summarizer-Application
+
 # AI Live Meeting Summarizer
 
 AI Live Meeting Summarizer is a system that records meetings, converts speech to text, identifies different speakers, and generates speaker-wise transcripts.  
@@ -108,3 +109,4 @@ Planned improvements for upcoming stages:
 
 AI Live Meeting Summarizer Project  
 Implementation completed up to Week 3
+

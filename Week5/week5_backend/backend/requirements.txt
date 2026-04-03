@@ -1,0 +1,10 @@
+streamlit
+pydub
+imageio-ffmpeg
+fpdf
+openai-whisper
+torch==2.0.1
+numpy==1.26.4
+sounddevice
+scipy
+streamlit-mic-recorder

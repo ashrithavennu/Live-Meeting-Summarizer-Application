@@ -118,7 +118,7 @@ Watch the full workflow demo here: [Demo Video](https://drive.google.com/file/d/
 # 🛠 Installation
 
 ```bash
-git clone <repository-link>
+git clone https://github.com/ashrithavennu/Live-Meeting-Summarizer-Application.git
 cd Live-Meeting-Summarizer-Application
 
 python -m venv env
